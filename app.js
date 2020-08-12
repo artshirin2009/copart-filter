@@ -1,5 +1,6 @@
 require('dotenv').config()
-require('./bot')
+
+require('./functions/iteration');
 var createError = require('http-errors');
 var express = require('express');
 const expressHbs = require("express-handlebars");

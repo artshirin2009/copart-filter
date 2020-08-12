@@ -5,6 +5,7 @@ module.exports = [
         "make": "VOLKSWAGEN",
         "model": "PASSAT SE",
         "year": "2014",
+        "run":"lotIcon-CERT-D",
         "odometer": 60907,
         "url": "https://www.copart.com/lot/39276080/salvage-2014-volkswagen-passat-se-ny-buffalo",
         "img": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX287/41fbe2f4-06f9-4eaa-9b36-e218e41ceacf.JPG",
@@ -16,6 +17,7 @@ module.exports = [
         "model": "TERRAIN SL",
         "year": "2015",
         "odometer": 52416,
+        "run":"lotIcon-CERT-D",
         "url": "https://www.copart.com/lot/39164590/salvage-2015-gmc-terrain-slt-ga-savannah",
         "img": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX286/3bbbf4dc-38f2-40a0-bdfe-40a175bb9ad6.JPG",
         "price": 5900
@@ -26,6 +28,7 @@ module.exports = [
         "model": "K900",
         "year": "2015",
         "odometer": 61975,
+        "run":"lotIcon-CERT-D",
         "url": "https://www.copart.com/lot/35186050/salvage-2015-kia-k900-ga-savannah",
         "img": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX269/8ea0e018-4175-46b7-a5f4-64bc03d36578.JPG",
         "price": 4900
@@ -50,14 +53,14 @@ module.exports = [
         "img": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX280/e0204ee7-a4fb-4b28-81b3-5b52cea7802f.JPG",
         "price": 2000
     },
-    {
-        "id": "39471360",
-        "make": "DODGE",
-        "model": "DART SXT S",
-        "year": "2016",
-        "odometer": 108679,
-        "url": "https://www.copart.com/lot/39471360/2016-dodge-dart-sxt-sport-ga-savannah",
-        "img": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX288/8e3673bf-0889-4e44-a377-925915da8fa3.JPG",
-        "price": 1100
-    }
+    // {
+    //     "id": "39471360",
+    //     "make": "DODGE",
+    //     "model": "DART SXT S",
+    //     "year": "2016",
+    //     "odometer": 108679,
+    //     "url": "https://www.copart.com/lot/39471360/2016-dodge-dart-sxt-sport-ga-savannah",
+    //     "img": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/PIX288/8e3673bf-0889-4e44-a377-925915da8fa3.JPG",
+    //     "price": 1100
+    // }
 ]
