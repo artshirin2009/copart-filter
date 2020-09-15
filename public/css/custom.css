@@ -1,3 +1,6 @@
 #sidebar h2 {
     color: #f8b739 ;
 }
+img {
+    max-width: 100%;
+}
